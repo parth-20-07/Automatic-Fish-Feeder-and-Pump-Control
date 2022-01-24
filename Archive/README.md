@@ -1,0 +1,1 @@
+This folder contains the archived versions of the Firmware and Hardware which are stored in form of the Versions at which the were created.
